@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD66E7B52B9EE2E7000C0B15 /* QuadraticViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD66E7B42B9EE2E7000C0B15 /* QuadraticViewController.swift */; };
+		CD66E7B72B9EE34F000C0B15 /* CanadaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD66E7B62B9EE34F000C0B15 /* CanadaViewController.swift */; };
+		CDB22BE42B9E858500C29C33 /* Lab2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB22BE32B9E858500C29C33 /* Lab2ViewController.swift */; };
+		CDB22BE62B9E859C00C29C33 /* Lab3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB22BE52B9E859C00C29C33 /* Lab3ViewController.swift */; };
+		CDB22BE82B9E85AF00C29C33 /* Lab4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB22BE72B9E85AF00C29C33 /* Lab4ViewController.swift */; };
 		CDCB27412B98F7E1005E3212 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCB27402B98F7E1005E3212 /* AppDelegate.swift */; };
 		CDCB27432B98F7E1005E3212 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCB27422B98F7E1005E3212 /* SceneDelegate.swift */; };
 		CDCB27452B98F7E1005E3212 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCB27442B98F7E1005E3212 /* ViewController.swift */; };
@@ -16,6 +21,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD66E7B42B9EE2E7000C0B15 /* QuadraticViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuadraticViewController.swift; sourceTree = "<group>"; };
+		CD66E7B62B9EE34F000C0B15 /* CanadaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanadaViewController.swift; sourceTree = "<group>"; };
+		CDB22BE32B9E858500C29C33 /* Lab2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab2ViewController.swift; sourceTree = "<group>"; };
+		CDB22BE52B9E859C00C29C33 /* Lab3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab3ViewController.swift; sourceTree = "<group>"; };
+		CDB22BE72B9E85AF00C29C33 /* Lab4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab4ViewController.swift; sourceTree = "<group>"; };
 		CDCB273D2B98F7E1005E3212 /* chauhan_vishakha_MT_8980777.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chauhan_vishakha_MT_8980777.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDCB27402B98F7E1005E3212 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CDCB27422B98F7E1005E3212 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +70,11 @@
 				CDCB27422B98F7E1005E3212 /* SceneDelegate.swift */,
 				CDCB27442B98F7E1005E3212 /* ViewController.swift */,
 				CDCB27462B98F7E1005E3212 /* Main.storyboard */,
+				CD66E7B62B9EE34F000C0B15 /* CanadaViewController.swift */,
+				CD66E7B42B9EE2E7000C0B15 /* QuadraticViewController.swift */,
+				CDB22BE32B9E858500C29C33 /* Lab2ViewController.swift */,
+				CDB22BE52B9E859C00C29C33 /* Lab3ViewController.swift */,
+				CDB22BE72B9E85AF00C29C33 /* Lab4ViewController.swift */,
 				CDCB27492B98F7E1005E3212 /* Assets.xcassets */,
 				CDCB274B2B98F7E1005E3212 /* LaunchScreen.storyboard */,
 				CDCB274E2B98F7E1005E3212 /* Info.plist */,
@@ -138,9 +153,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD66E7B52B9EE2E7000C0B15 /* QuadraticViewController.swift in Sources */,
 				CDCB27452B98F7E1005E3212 /* ViewController.swift in Sources */,
+				CDB22BE82B9E85AF00C29C33 /* Lab4ViewController.swift in Sources */,
 				CDCB27412B98F7E1005E3212 /* AppDelegate.swift in Sources */,
+				CD66E7B72B9EE34F000C0B15 /* CanadaViewController.swift in Sources */,
 				CDCB27432B98F7E1005E3212 /* SceneDelegate.swift in Sources */,
+				CDB22BE42B9E858500C29C33 /* Lab2ViewController.swift in Sources */,
+				CDB22BE62B9E859C00C29C33 /* Lab3ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
